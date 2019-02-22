@@ -9,5 +9,6 @@ int main()
   cin>>n;
   a=n*n;
   cout<<"The area of square with side "<<n<<" is "<<a<<endl;
+  cout<<endl;
   return 0;
 }
